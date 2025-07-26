@@ -7,4 +7,5 @@
 ## Description
 
 U can change base kit of red Satoru on donate variant
+---
 V1 - don't know how to work with USM file, so u gotta see base ver of animation
