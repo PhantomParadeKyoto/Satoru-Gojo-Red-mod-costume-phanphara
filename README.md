@@ -13,3 +13,4 @@ V1 - don't know how to work with USM file, so u gotta see base ver of ult animat
 V2 - Mod is done
 ---
 V2.5 - Add scroll in mod menu and showcase from youtube
+---
