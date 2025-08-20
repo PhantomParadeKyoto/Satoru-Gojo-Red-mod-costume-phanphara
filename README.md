@@ -1,7 +1,7 @@
 # Satoru Gojo Red mod costume / Phanphara 
 
 **Version**: v1.0 (26.07.2025)  
-**Authors**: [t.me/kyotojjt](https://t.me/kyotojjt)  
+**Authors**: [t.me/kyotojjt](https://t.me/kyotojjt) & [https://x.com/phanphara_leaks]  
 **License**: GNU GPL v3
 
 ## Description
