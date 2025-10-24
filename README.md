@@ -17,3 +17,5 @@ V2 - Mod is done
 ---
 V2.5 - Add scroll in mod menu and showcase from youtube
 ---
+The mod is not working rn, just wait
+---
