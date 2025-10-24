@@ -2,7 +2,7 @@
 ---
 **Actual ver**: v2.5 (21.08.2025)  
 ---
-**Authors**: [TELEGRAM](https://t.me/kyotojjt) & [TWITTER](https://x.com/phanphara_leaks)
+**Authors**: [TWITTER](https://x.com/phanphara_leaks) & [DISCORD](discord.gg/Gw54c3a3DV)
 ---
 **License**: GNU GPL v3
 ---
